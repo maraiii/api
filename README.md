@@ -1,26 +1,18 @@
-# Welcome to your Lovable project
+# 🌟 Korean Particles API
 
-## Project info
+A RESTful API designed to help Korean language learners understand and use Korean particles (조사) correctly. Provides detailed information, examples, and filtering options for all essential Korean grammatical particles.
 
-**URL**: https://lovable.dev/projects/b6b1dc6f-39f2-4b8e-8413-db199db7c1c4
+## ✨ Features
 
-## How can I edit this code?
+- **Complete Reference**: Comprehensive list of Korean particles with Hangul, romanization, and English explanations
+- **Practical Examples**: Real sentence examples showing usage in context
+- **Smart Filtering**: Filter particles by category, function, or difficulty level
+- **Multiple Formats**: JSON, XML, and YAML responses supported
+- **Free Access**: No authentication required for basic usage
+- **Educational Focus**: Includes common mistakes and usage notes
 
-There are several ways of editing your application.
+## 🚀 Quick Start
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/b6b1dc6f-39f2-4b8e-8413-db199db7c1c4) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -36,19 +28,6 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
 ## What technologies are used for this project?
 
@@ -59,15 +38,5 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b6b1dc6f-39f2-4b8e-8413-db199db7c1c4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+- Node.js
+- Express.js
